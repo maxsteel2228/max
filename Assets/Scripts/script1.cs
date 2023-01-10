@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 public class script1 : MonoBehaviour
 {
 
-    public int age;
+    public int power;
     public float health;
     public float damage;
     public float defence;
